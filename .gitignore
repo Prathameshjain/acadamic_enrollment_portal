@@ -1,0 +1,50 @@
+# Compiled class files
+*.class
+target/
+bin/
+
+# Log files
+*.log
+logs/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+.mvn/timing.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+application-dev.properties
+application-prod.properties
+
+# Build outputs
+dist/
+build/
+
+# Database files (if using embedded DB)
+*.db
+*.sqlite
+
+# Temporary files
+temp/
+tmp/

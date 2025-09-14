@@ -1,1 +1,7 @@
 com\academic\portal\App.class
+com\academic\portal\model\Student$StudentBuilder.class
+com\academic\portal\service\StudentService.class
+com\academic\portal\repository\StudentRepository.class
+com\academic\portal\controller\StudentController.class
+com\academic\portal\model\Student.class
+com\academic\portal\AcademicEnrollmentPortalApplication.class
